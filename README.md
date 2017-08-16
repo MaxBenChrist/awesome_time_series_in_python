@@ -15,4 +15,4 @@ The following list is by no means exhaustive, feel free to submit a pr if you mi
 | [hctsa](https://github.com/benfulcher/hctsa) | A Matlab based feature extraction which can be controlled from python |
 | [statsmodels](https://github.com/statsmodels/statsmodels) | This econometrics package has a submodule with classical time series models and hypothesis tests |
 | [prophet](https://github.com/facebookincubator/prophet) |  Time series forecasting for time series data that has multiple seasonality with linear or non-linear growth |
-| [pydse](https://github.com/blue-yonder/pydse) |  This package contains ARMA models for Dynamic System Estimation |
+| [pyDSE](https://github.com/blue-yonder/pydse) |  This package contains ARMA models for Dynamic System Estimation |
