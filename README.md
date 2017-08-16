@@ -12,4 +12,5 @@ a pr if you miss something.
 | [tsfresh](https://github.com/blue-yonder/tsfresh) | Extracts and filters features from time series |
 | [tslearn](https://github.com/rtavenar/tslearn) | Contains direct time series classifiers and regressors |
 | [cesium](https://github.com/cesium-ml/cesium) | A time series platform with feature extraction |
-| [hctsa](https://github.com/benfulcher/hctsa) | A Matlab based feature extraction |
+| [hctsa](https://github.com/benfulcher/hctsa) | A Matlab based feature extraction which can be controlled from python |
+| [statsmodels](https://github.com/statsmodels/statsmodels) | This econometrics package has a submodule with classical time series models and hypothesis tests |
