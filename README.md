@@ -1,8 +1,8 @@
 # Using python for analysis of time series
 
-The python ecosystem contains different packages that can be used to process time series. The following list is by no means exhaustive, feel free to submit
-a pr if you miss something.
+The python ecosystem contains different packages that can be used to process time series. 
 
+The following list is by no means exhaustive, feel free to submit a pr if you miss something.
 
 
 
