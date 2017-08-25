@@ -1,4 +1,4 @@
-# Using python for analysis of time series
+# Using python to work with time series data
 
 The python ecosystem contains different packages that can be used to process time series. 
 
