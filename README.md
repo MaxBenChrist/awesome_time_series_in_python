@@ -18,3 +18,4 @@ The following list is by no means exhaustive, feel free to submit a pr if you mi
 | [prophet](https://github.com/facebookincubator/prophet) |  Time series forecasting for time series data that has multiple seasonality with linear or non-linear growth |
 | [pyDSE](https://github.com/blue-yonder/pydse) |  This package contains ARMA models for Dynamic System Estimation |
 | [fecon235](https://github.com/rsvp/fecon235) |  This package contains Computational tools for financial economics |  
+| [Nitime](https://github.com/nipy/nitime) |  Timeseries analysis for neuroscience data |  
