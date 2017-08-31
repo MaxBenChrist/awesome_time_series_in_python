@@ -27,13 +27,17 @@ Then you can take the same object and try lightgbm or xgboost models on it, see
 X = [[0, 0, 1], 
      [0, 1, 0], 
      [1, 0, 0]]
-y = [1, 1, 1]
+     
+y = [1, 
+     1, 
+     1]
 
-
+# first train model from sklearn
 from sklearn.ensemble import RandomForestClassifer()
 clf1 = RandomForestClassifer()
 clf1.fit(X, y)
 
+# now train model from another package on data of same format
 from lightgbm import LGBMClassifier
 clf2 = LGBMClassifier()
 clf2.fit(X, y)
