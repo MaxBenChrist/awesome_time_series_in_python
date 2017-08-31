@@ -24,6 +24,7 @@ The following list is by no means exhaustive, feel free to submit a pr if you mi
 | Project Name | Description |
 | ------- | ------ |
 | [ecmwf_models](https://github.com/TUW-GEO/ecmwf_models) | Readers and converters for climate reanalysis data |
+| [pandas-datareader](https://github.com/pydata/pandas-datareader) | Pulls financial data from different sources (e.g. yahoo, google, Quandl) |
 
 # Databases, frameworks
 | Project Name | Description |
