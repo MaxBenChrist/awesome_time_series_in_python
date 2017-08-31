@@ -6,7 +6,7 @@ The following list is by no means exhaustive, feel free to submit a pr if you mi
 
 # Machine learning, statistics, analytics
 
-Libraries
+## Libraries
 
 | Project Name | Description |
 | ------- | ------ |
@@ -22,7 +22,7 @@ Libraries
 | [fecon235](https://github.com/rsvp/fecon235) |  Computational tools for financial economics |  
 | [Nitime](https://github.com/nipy/nitime) |  Timeseries analysis for neuroscience data |  
 
-Examples or singular models
+## Examples or singular models
 
 | Project Name | Description |
 | ------- | ------ |
