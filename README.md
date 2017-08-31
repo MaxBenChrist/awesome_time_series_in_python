@@ -4,9 +4,9 @@ The python ecosystem contains different packages that can be used to process tim
 
 The following list is by no means exhaustive, feel free to submit a pr if you miss something.
 
+# Machine Learning, Statistics, Analytics
 
-
-| Project Name| Description |
+| Project Name | Description |
 | ------- | ------ |
 | [PyFlux](https://github.com/RJT1990/pyflux) | Classical time series forecasting models |
 | [tsfresh](https://github.com/blue-yonder/tsfresh) | Extracts and filters features from time series, allowing supervised classificators and regressor to be applied to time series data |
@@ -19,3 +19,14 @@ The following list is by no means exhaustive, feel free to submit a pr if you mi
 | [pyDSE](https://github.com/blue-yonder/pydse) |  ARMA models for Dynamic System Estimation |
 | [fecon235](https://github.com/rsvp/fecon235) |  Computational tools for financial economics |  
 | [Nitime](https://github.com/nipy/nitime) |  Timeseries analysis for neuroscience data |  
+
+# Data sets
+| Project Name | Description |
+| ------- | ------ |
+| [ecmwf_models](https://github.com/TUW-GEO/ecmwf_models) | Readers and converters for climate reanalysis data |
+
+# Data Bases, Frameworks
+| Project Name | Description |
+| ------- | ------ |
+| [cesium](https://github.com/cesium-ml/cesium) | Time series platform with feature extraction aming for non uniformly sampled signals |
+| [whisper](https://github.com/graphite-project/whisper) | File-based time-series database format |
