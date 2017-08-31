@@ -4,7 +4,7 @@ The python ecosystem contains different packages that can be used to process tim
 
 The following list is by no means exhaustive, feel free to submit a pr if you miss something.
 
-# Machine Learning, Statistics, Analytics
+# Machine learning, statistics, analytics
 
 | Project Name | Description |
 | ------- | ------ |
@@ -25,7 +25,7 @@ The following list is by no means exhaustive, feel free to submit a pr if you mi
 | ------- | ------ |
 | [ecmwf_models](https://github.com/TUW-GEO/ecmwf_models) | Readers and converters for climate reanalysis data |
 
-# Data Bases, Frameworks
+# Databases, frameworks
 | Project Name | Description |
 | ------- | ------ |
 | [cesium](https://github.com/cesium-ml/cesium) | Time series platform with feature extraction aming for non uniformly sampled signals |
