@@ -6,6 +6,8 @@ The following list is by no means exhaustive, feel free to submit a pr if you mi
 
 # Machine learning, statistics, analytics
 
+Libraries
+
 | Project Name | Description |
 | ------- | ------ |
 | [PyFlux](https://github.com/RJT1990/pyflux) | Classical time series forecasting models |
@@ -19,6 +21,14 @@ The following list is by no means exhaustive, feel free to submit a pr if you mi
 | [pyDSE](https://github.com/blue-yonder/pydse) |  ARMA models for Dynamic System Estimation |
 | [fecon235](https://github.com/rsvp/fecon235) |  Computational tools for financial economics |  
 | [Nitime](https://github.com/nipy/nitime) |  Timeseries analysis for neuroscience data |  
+
+Examples or singular models
+
+| Project Name | Description |
+| ------- | ------ |
+| [LSTM-Neural-Network-for-Time-Series-Prediction](https://github.com/jaungiers/LSTM-Neural-Network-for-Time-Series-Prediction) |  LSTM based forecasting model |  
+| [UCR_Time_Series_Classification_Deep_Learning_Baseline](https://github.com/cauchyturing/UCR_Time_Series_Classification_Deep_Learning_Baseline) |  Fully Convolutional Neural Networks for state-of-the-art time series classification | 
+
 
 # Data sets
 | Project Name | Description |
