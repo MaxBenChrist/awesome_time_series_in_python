@@ -26,7 +26,7 @@ All without every having the need to convert your data, everything works out of 
 We want the same for time series data.
 So the purpose of this document is to find a standard for time series data so time series analysis becomes more easy.
 
-# How to pick right format
+# How to pick the right format
 
 Before one can pick the right format, one needs to
 
@@ -35,10 +35,9 @@ Before one can pick the right format, one needs to
 3. Are the time series allowed to have missing values, NaNs etc.?
 4. Are multivariate time series allowed?
 
-# Candidate formats
+# Possible formats
 
-There is a myriad of different formats which could be used.
-
+There is a myriad of different formats which could be used. 
 
 1. Relational
     1. Stacked matrix
