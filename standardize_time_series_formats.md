@@ -20,7 +20,26 @@ In a feature matrix, a column denotes a feature, a row is a sample.
 Objectwise, either `numpy.ndarrays` or their extensions `pandas.DataFrame` are used.
 
 So you can use your feature matrix and first apply models from sklearn on it. 
-Then you can take the same object and try lightgbm or xgboost models on it.
+Then you can take the same object and try lightgbm or xgboost models on it, see 
+
+``` Python
+
+X = [[0, 0, 1], 
+     [0, 1, 0], 
+     [1, 0, 0]]
+y = [1, 1, 1]
+
+
+from sklearn.ensemble import RandomForestClassifer()
+clf1 = RandomForestClassifer()
+clf1.fit(X, y)
+
+from lightgbm import LGBMClassifier
+clf2 = LGBMClassifier()
+clf2.fit(X, y)
+
+```
+
 All without every having the need to convert your data, everything works out of the box.
 
 We want the same for time series data.
