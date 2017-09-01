@@ -21,6 +21,7 @@ The following list is by no means exhaustive, feel free to submit a pr if you mi
 | [pyDSE](https://github.com/blue-yonder/pydse) |  ARMA models for Dynamic System Estimation |
 | [fecon235](https://github.com/rsvp/fecon235) |  Computational tools for financial economics |  
 | [Nitime](https://github.com/nipy/nitime) |  Timeseries analysis for neuroscience data |  
+| [Traces](https://github.com/datascopeanalytics/traces) | A library for unevenly-spaced time series analysis |
 
 ## Examples or singular models
 
