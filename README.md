@@ -28,6 +28,7 @@ The following list is by no means exhaustive, feel free to submit a pr if you mi
 | ------- | ------ |
 | [LSTM-Neural-Network-for-Time-Series-Prediction](https://github.com/jaungiers/LSTM-Neural-Network-for-Time-Series-Prediction) |  LSTM based forecasting model |  
 | [UCR_Time_Series_Classification_Deep_Learning_Baseline](https://github.com/cauchyturing/UCR_Time_Series_Classification_Deep_Learning_Baseline) |  Fully Convolutional Neural Networks for state-of-the-art time series classification | 
+| [shapelets-python](https://github.com/mohaseeb/shaplets-python) |  Shapelet Classifier based on a multi layer neural network | 
 
 
 # Data sets
