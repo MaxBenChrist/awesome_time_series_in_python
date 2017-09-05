@@ -43,6 +43,7 @@ The following list is by no means exhaustive, feel free to submit a pr if you mi
 # Databases, frameworks
 | Project Name | Description |
 | ------- | ------ |
+| [artic](https://github.com/manahl/arctic) | High performance datastore for time series and tick data | 
 | [cesium](https://github.com/cesium-ml/cesium) | Time series platform with feature extraction aming for non uniformly sampled signals |
 | [whisper](https://github.com/graphite-project/whisper) | File-based time-series database format |
 | [thunder](https://github.com/thunder-project/thunder) | scalable analysis of image and time series data in python based on spark |
