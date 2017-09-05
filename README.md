@@ -19,11 +19,11 @@ The following list is by no means exhaustive, feel free to submit a pr if you mi
 | [pyDSE](https://github.com/blue-yonder/pydse) |  ARMA models for Dynamic System Estimation |
 | [PyFlux](https://github.com/RJT1990/pyflux) | Classical time series forecasting models |
 | [statsmodels](https://github.com/statsmodels/statsmodels) | Econometrics package has a submodule for classical time series models and hypothesis tests |
+| [TensorFlow-Time-Series-Examples](https://github.com/hzy46/TensorFlow-Time-Series-Examples) | Time Series Prediction with tf.contrib.timeseries |
 | [Traces](https://github.com/datascopeanalytics/traces) | A library for unevenly-spaced time series analysis |
 | [tsfresh](https://github.com/blue-yonder/tsfresh) | Extracts and filters features from time series, allowing supervised classificators and regressor to be applied to time series data |
 | [tslearn](https://github.com/rtavenar/tslearn) | Direct time series classifiers and regressors |
 | [tspreprocess](https://github.com/MaxBenChrist/tspreprocess) | Preprocess time series (resampling, denoising etc.), still WIP |
-| [TensorFlow-Time-Series-Examples](https://github.com/hzy46/TensorFlow-Time-Series-Examples) | Time Series Prediction with tf.contrib.timeseries |
 
 ## Examples or singular models
 
@@ -45,5 +45,5 @@ The following list is by no means exhaustive, feel free to submit a pr if you mi
 | ------- | ------ |
 | [artic](https://github.com/manahl/arctic) | High performance datastore for time series and tick data | 
 | [cesium](https://github.com/cesium-ml/cesium) | Time series platform with feature extraction aming for non uniformly sampled signals |
-| [whisper](https://github.com/graphite-project/whisper) | File-based time-series database format |
 | [thunder](https://github.com/thunder-project/thunder) | scalable analysis of image and time series data in python based on spark |
+| [whisper](https://github.com/graphite-project/whisper) | File-based time-series database format |
