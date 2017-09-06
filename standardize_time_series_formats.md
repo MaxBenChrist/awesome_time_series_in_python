@@ -3,7 +3,7 @@
 Think about the following situation: 
 You have some new time series data and want to develop a classification algorithm on it. 
 Because it is a new dataset, you are not sure if you should use a shape based approach or maybe a feature based one. 
-In any case, you want to apply different packages on that data and compare results.
+In any case, you want to apply different packages on that data and compare the results.
 
 Now, what happens is that there is no aggreed standard for time series data.
 For most of the tools, 
@@ -68,4 +68,5 @@ There is a myriad of different formats which could be used.
     3. 3-dimensional matrix
 2. Nested
     1. Dictionary based
-
+3. Binary
+    1. ?
