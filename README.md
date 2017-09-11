@@ -54,4 +54,4 @@ The following list is by no means exhaustive, feel free to submit a pr if you mi
 
 # Discussion
 
-We would like to trigger a homogenisation of the used formats in the time series community, please see the [concept paper](https://github.com/MaxBenChrist/awesome_time_series_in_python/blob/master/standardize_time_series_formats.md)
+We would like to trigger a homogenisation of used formats in the time series community, please see the [concept paper](https://github.com/MaxBenChrist/awesome_time_series_in_python/blob/master/standardize_time_series_formats.md)
