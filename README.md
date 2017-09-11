@@ -47,3 +47,11 @@ The following list is by no means exhaustive, feel free to submit a pr if you mi
 | [cesium](https://github.com/cesium-ml/cesium) | Time series platform with feature extraction aming for non uniformly sampled signals |
 | [thunder](https://github.com/thunder-project/thunder) | scalable analysis of image and time series data in python based on spark |
 | [whisper](https://github.com/graphite-project/whisper) | File-based time-series database format |
+
+
+
+----
+
+# Discussion
+
+We would like to trigger a homogenisation of the used formats in the time series community, please see the [concept paper](https://github.com/MaxBenChrist/awesome_time_series_in_python/blob/master/standardize_time_series_formats.md)
