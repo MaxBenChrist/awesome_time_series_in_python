@@ -1,3 +1,5 @@
+This page is not yet finished.
+
 TODO: remove question about multivariate time series
 
 # Motivation: There are too many time series formats
@@ -152,8 +154,8 @@ will be recorded as
 
 ### 2.i Dictionary based
 
-Instead of passing a DataFrame which must be split up by its different kinds by tsfresh, you can also give a dictionary mapping from the kind as string to a DataFrame containing only the time series data of that kind.
-Essentially you are using a singular DataFrame for each kind of time series.
+We can have  dictionary mapping from the id to another dictionary that maps kind to the time series.
+Essentially you are using a singular array for each time series.
 
 Example: The two time series
 ```
@@ -180,9 +182,9 @@ Before one can pick the right format, one needs to check a few points
 Depending of the answers to this questions, different formats are suitable.
 The following table lists the characteristics of the different formats
 
-| Format | 1. Different length  | 2. Non uniformly sampled | 3. Multivariate time series |
-| -------| :---: | :---: | :---: |
-| 1.i Stacked Matrix |  | | _X_ |
-| 1.ii Flat Matrix | |  |  |
-| 1.iii 3-dimensional Matrix |  | | |
-| 2.ii Dictionary based |  |  |  |
+| Format | 1. Different length  | 2. Non uniformly sampled | 3. Multivariate time series | Does not contain redundant information | Tabular format |
+| -------| :---: | :---: | :---: | :---: | :---: |
+| 1.i Stacked Matrix |  _X_  |  _X_ | _X_ | | _X_|
+| 1.ii Flat Matrix | |  |  _X_  | _X_ | _X_ |
+| 1.iii 3-dimensional Matrix |  |  |  _X_ | _X_ | |
+| 2.ii Dictionary based | _X_ |  _X_ |  _X_  | _X_ | | |

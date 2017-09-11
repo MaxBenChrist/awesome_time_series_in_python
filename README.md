@@ -1,6 +1,6 @@
 # Using python to work with time series data
 
-The python ecosystem contains different packages that can be used to process time series. 
+The python ecosystem contains different packages that can be used to process time series.
 
 The following list is by no means exhaustive, feel free to submit a pr if you miss something.
 
@@ -31,8 +31,8 @@ The following list is by no means exhaustive, feel free to submit a pr if you mi
 | ------- | ------ |
 | [LSTM-Neural-Network-for-Time-Series-Prediction](https://github.com/jaungiers/LSTM-Neural-Network-for-Time-Series-Prediction) |  LSTM based forecasting model |  
 | [LSTM_tsc](https://github.com/RobRomijnders/LSTM_tsc) | An LSTM based time-series classification neural network|
-| [shapelets-python](https://github.com/mohaseeb/shaplets-python) |  Shapelet Classifier based on a multi layer neural network | 
-| [UCR_Time_Series_Classification_Deep_Learning_Baseline](https://github.com/cauchyturing/UCR_Time_Series_Classification_Deep_Learning_Baseline) |  Fully Convolutional Neural Networks for state-of-the-art time series classification | 
+| [shapelets-python](https://github.com/mohaseeb/shaplets-python) |  Shapelet Classifier based on a multi layer neural network |
+| [UCR_Time_Series_Classification_Deep_Learning_Baseline](https://github.com/cauchyturing/UCR_Time_Series_Classification_Deep_Learning_Baseline) |  Fully Convolutional Neural Networks for state-of-the-art time series classification |
 
 # Data sets
 | Project Name | Description |
@@ -43,7 +43,7 @@ The following list is by no means exhaustive, feel free to submit a pr if you mi
 # Databases, frameworks
 | Project Name | Description |
 | ------- | ------ |
-| [artic](https://github.com/manahl/arctic) | High performance datastore for time series and tick data | 
+| [artic](https://github.com/manahl/arctic) | High performance datastore for time series and tick data |
 | [cesium](https://github.com/cesium-ml/cesium) | Time series platform with feature extraction aming for non uniformly sampled signals |
 | [thunder](https://github.com/thunder-project/thunder) | scalable analysis of image and time series data in python based on spark |
 | [whisper](https://github.com/graphite-project/whisper) | File-based time-series database format |
@@ -54,4 +54,4 @@ The following list is by no means exhaustive, feel free to submit a pr if you mi
 
 # Discussion
 
-We would like to trigger a homogenisation of used formats in the time series community, please see the [concept paper](https://github.com/MaxBenChrist/awesome_time_series_in_python/blob/master/standardize_time_series_formats.md)
+We would like to trigger a homogenization of the formats which are used in the python time series community, please see the [concept page](https://github.com/MaxBenChrist/awesome_time_series_in_python/blob/master/standardize_time_series_formats.md)
