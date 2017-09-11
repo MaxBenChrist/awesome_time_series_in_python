@@ -24,9 +24,9 @@ Then you can take the same object and try lightgbm or xgboost models on it, see
 
 ``` Python
 
-X = [[0, 0, 1], 
-     [0, 1, 0], 
-     [1, 0, 0]]
+X = [[0, 0, 1, 1], 
+     [0, 1, 0, 0], 
+     [1, 0, 0, 1]]
      
 y = [1, 
      1, 
@@ -47,20 +47,13 @@ clf2.fit(X, y)
 All without every having the need to convert your data, everything works out of the box.
 
 We want the same for time series data.
-So the purpose of this document is to find a standard for time series data so time series analysis becomes more easy.
+So the purpose of this document is to find a standard for time series data, so time series analysis becomse more user friendly.
 
-# How to pick the right format
+# Classification of different time series formats
 
-Before one can pick the right format, one needs to
-
-1. Do the time series can have different lengths?
-2. Are the time series uniformly sampled?
-3. Are the time series allowed to have missing values, NaNs etc.?
-4. Are multivariate time series allowed?
-
-# Possible formats
-
-There is a myriad of different formats which could be used. 
+There is a myriad of different formats which could be used.
+In the following, I present some time series formats.
+If you have some more ideas, please feel free to submit a pr.
 
 1. Relational
     1. Stacked matrix
@@ -70,3 +63,31 @@ There is a myriad of different formats which could be used.
     1. Dictionary based
 3. Binary
     1. ?
+    
+### 1.i Stacked Matrix
+Lets 
+```
+time  id  value kind
+0   1       1    a
+1   1       2    a
+2   1       3    a
+3   1       4    a
+```
+
+
+
+
+
+## How to pick the right format
+
+Before one can pick the right format, one needs to check a few points
+
+1. Do the time series can have different lengths?
+2. Are the time series non uniformly sampled, so are the time series alloed to have missing values?
+3. Do we inspect multivariate time series?
+
+
+| Format | 1. Different length  | 2. Non uniformly sampled | 3. Multivariate time series |
+| -------| :---: | :---: | :---: |
+| Stacked Matrix | _X_ | _X_ | _X_ |
+
