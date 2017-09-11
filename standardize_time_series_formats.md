@@ -12,14 +12,14 @@ For most of the tools,
 * understand the format of the respective package, 
 * and finally you will have write a script to convert your data.
 
-This is annyoing and slows you down in your work as a Data Scientist! 
+This is annyoing and slows you down.
 
-With supervised machine learning, it is more easy. 
+With supervised machine learning, using different packages is more convinient. 
 Almost all packages expect a feature matrix as input.
 In a feature matrix, a column denotes a feature, a row is a sample. 
 Objectwise, either `numpy.ndarrays` or their extensions `pandas.DataFrame` are used.
 
-So you can use your feature matrix and first apply models from sklearn on it. 
+You can use your feature matrix and first apply models from sklearn on it. 
 Then you can take the same object and try lightgbm or xgboost models on it, see 
 
 ``` Python
@@ -47,13 +47,13 @@ clf2.fit(X, y)
 All without every having the need to convert your data, everything works out of the box.
 
 We want the same for time series data.
-So the purpose of this document is to find a standard for time series data, so time series analysis becomse more user friendly.
+The purpose of this document is to find a standard for time series data, their analysis should become more user friendly.
 
 # Classification of different time series formats
 
-There is a myriad of different formats which could be used.
-
-A time series consists of timely annotated data. So a recording is based on two numbers, the `time` and `value` dimension. It has the format 
+A time series consists of timely annotated data. 
+So, a recording is based on two numbers, the `time` and `value` dimension. 
+It has the format 
 ```
 (time, value)
 ```
@@ -78,7 +78,8 @@ So, for example
 ```
 denotes a temperature of `83°C` measured at sensor `Engine Temperature G1` for the VW Beetle with serial number `7 4545 4543` at `2009-06-15T13:45:30`.
 
-In the following, I present some time series formats.
+There is a myriad of different formats which could be used to save such information.
+In the following, I present some formats.
 If you have some more ideas, please feel free to submit a pr.
     
 ### 1.i Stacked Matrix
@@ -128,7 +129,7 @@ time  id  value kind
 Before one can pick the right format, one needs to check a few points
 
 1. Do the time series can have different lengths?
-2. Are the time series non uniformly sampled, so are the time series alloed to have missing values?
+2. Are the time series non uniformly sampled, are the time series allowed to have missing values?
 3. Do we inspect multivariate time series?
 
 
