@@ -44,6 +44,7 @@ The following list is by no means exhaustive, feel free to submit a pr if you mi
 | Project Name | Description |
 | ------- | ------ |
 | [artic](https://github.com/manahl/arctic) | High performance datastore for time series and tick data |
+| [automl_service](https://github.com/crawles/automl_service) | Fully automated time series classification pipeline, deployed as a web service |
 | [cesium](https://github.com/cesium-ml/cesium) | Time series platform with feature extraction aming for non uniformly sampled signals |
 | [thunder](https://github.com/thunder-project/thunder) | scalable analysis of image and time series data in python based on spark |
 | [whisper](https://github.com/graphite-project/whisper) | File-based time-series database format |
