@@ -33,6 +33,7 @@ The following list is by no means exhaustive, feel free to submit a pr if you mi
 | [LSTM_tsc](https://github.com/RobRomijnders/LSTM_tsc) | An LSTM based time-series classification neural network|
 | [shapelets-python](https://github.com/mohaseeb/shaplets-python) |  Shapelet Classifier based on a multi layer neural network |
 | [UCR_Time_Series_Classification_Deep_Learning_Baseline](https://github.com/cauchyturing/UCR_Time_Series_Classification_Deep_Learning_Baseline) |  Fully Convolutional Neural Networks for state-of-the-art time series classification |
+| [WTTE-RNN](https://github.com/ragulpr/wtte-rnn/) | Weibull Time To Event Recurrent Neural Network |
 
 # Data sets
 | Project Name | Description |
