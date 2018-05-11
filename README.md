@@ -15,7 +15,7 @@ The following list is by no means exhaustive, feel free to submit a pr if you mi
 | [fecon235](https://github.com/rsvp/fecon235) |  Computational tools for financial economics |  
 | [hctsa](https://github.com/benfulcher/hctsa) | Matlab based feature extraction which can be controlled from python |
 | [Nitime](https://github.com/nipy/nitime) |  Timeseries analysis for neuroscience data |  
-| [prophet](https://github.com/facebookincubator/prophet) |  Time series forecasting for time series data that has multiple seasonality with linear or non-linear growth |
+| [prophet](https://github.com/facebook/prophet) |  Time series forecasting for time series data that has multiple seasonality with linear or non-linear growth |
 | [pyDSE](https://github.com/blue-yonder/pydse) |  ARMA models for Dynamic System Estimation |
 | [PyFlux](https://github.com/RJT1990/pyflux) | Classical time series forecasting models |
 | [statsmodels](https://github.com/statsmodels/statsmodels) | Contains a submodule for classical time series models and hypothesis tests |
