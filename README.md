@@ -11,7 +11,7 @@ The following list is by no means exhaustive, feel free to submit a pr if you mi
 | Project Name | Description |
 | ------- | ------ |
 | [Arrow](https://github.com/crsmithdev/arrow) | A sensible, human-friendly approach to creating, manipulating, formatting and converting dates, times, and timestamps |
-| [cesium](https://github.com/cesium-ml/cesium) | Time series platform with feature extraction aming for non uniformly sampled signals |
+| [cesium](https://github.com/cesium-ml/cesium) | Time series platform with feature extraction aiming for non uniformly sampled signals |
 | [fecon235](https://github.com/rsvp/fecon235) |  Computational tools for financial economics |  
 | [hctsa](https://github.com/benfulcher/hctsa) | Matlab based feature extraction which can be controlled from python |
 | [Nitime](https://github.com/nipy/nitime) |  Timeseries analysis for neuroscience data |  
