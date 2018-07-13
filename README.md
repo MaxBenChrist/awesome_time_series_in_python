@@ -22,7 +22,8 @@ The following list is by no means exhaustive, feel free to submit a pr if you mi
 | [statsmodels](https://github.com/statsmodels/statsmodels) | Contains a submodule for classical time series models and hypothesis tests |
 | [TensorFlow-Time-Series-Examples](https://github.com/hzy46/TensorFlow-Time-Series-Examples) | Time Series Prediction with tf.contrib.timeseries |
 | [Traces](https://github.com/datascopeanalytics/traces) | A library for unevenly-spaced time series analysis |
-| [ta-lib](https://github.com/mrjbq7/ta-lib) | Calculate technical indicators for financial time series | 
+| [ta-lib](https://github.com/mrjbq7/ta-lib) | Calculate technical indicators for financial time series (python wrapper around TA-Lib) |
+| [ta](https://github.com/bukosabino/ta) | Calculate technical indicators for financial time series |
 | [tsfresh](https://github.com/blue-yonder/tsfresh) | Extracts and filters features from time series, allowing supervised classificators and regressor to be applied to time series data |
 | [tslearn](https://github.com/rtavenar/tslearn) | Direct time series classifiers and regressors |
 | [tspreprocess](https://github.com/MaxBenChrist/tspreprocess) | Preprocess time series (resampling, denoising etc.), still WIP |
