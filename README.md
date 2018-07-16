@@ -14,7 +14,8 @@ The following list is by no means exhaustive, feel free to submit a pr if you mi
 | [cesium](https://github.com/cesium-ml/cesium) | Time series platform with feature extraction aiming for non uniformly sampled signals |
 | [fecon235](https://github.com/rsvp/fecon235) |  Computational tools for financial economics |  
 | [hctsa](https://github.com/benfulcher/hctsa) | Matlab based feature extraction which can be controlled from python |
-| [Nitime](https://github.com/nipy/nitime) |  Timeseries analysis for neuroscience data |  
+| [Nitime](https://github.com/nipy/nitime) |  Timeseries analysis for neuroscience data |
+| [Pastas](https://github.com/pastas/pastas) | Timeseries analysis for hydrological data |
 | [prophet](https://github.com/facebook/prophet) |  Time series forecasting for time series data that has multiple seasonality with linear or non-linear growth |
 | [pyDSE](https://github.com/blue-yonder/pydse) |  ARMA models for Dynamic System Estimation |
 | [PyFlux](https://github.com/RJT1990/pyflux) | Classical time series forecasting models |
@@ -27,7 +28,6 @@ The following list is by no means exhaustive, feel free to submit a pr if you mi
 | [tsfresh](https://github.com/blue-yonder/tsfresh) | Extracts and filters features from time series, allowing supervised classificators and regressor to be applied to time series data |
 | [tslearn](https://github.com/rtavenar/tslearn) | Direct time series classifiers and regressors |
 | [tspreprocess](https://github.com/MaxBenChrist/tspreprocess) | Preprocess time series (resampling, denoising etc.), still WIP |
-| [Pastas](https://github.com/pastas/pastas) | Timeseries analysis for hydrological data |
 
 ## Examples or singular models
 
