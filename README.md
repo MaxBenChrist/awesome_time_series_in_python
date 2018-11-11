@@ -14,6 +14,7 @@ The following list is by no means exhaustive, feel free to submit a pr if you mi
 | [cesium](https://github.com/cesium-ml/cesium) | Time series platform with feature extraction aiming for non uniformly sampled signals |
 | [GENDIS](https://github.com/IBCNServices/GENDIS) | Shapelet discovery by genetic algorithms |  
 | [fecon235](https://github.com/rsvp/fecon235) |  Computational tools for financial economics |
+| [ffn](https://github.com/pmorissette/ffn) | financial function library |
 | [hctsa](https://github.com/benfulcher/hctsa) | Matlab based feature extraction which can be controlled from python |
 | [Nitime](https://github.com/nipy/nitime) |  Timeseries analysis for neuroscience data |
 | [Pastas](https://github.com/pastas/pastas) | Timeseries analysis for hydrological data |
