@@ -15,6 +15,7 @@ The following list is by no means exhaustive, feel free to submit a pr if you mi
 | [GENDIS](https://github.com/IBCNServices/GENDIS) | Shapelet discovery by genetic algorithms |  
 | [fecon235](https://github.com/rsvp/fecon235) |  Computational tools for financial economics |
 | [ffn](https://github.com/pmorissette/ffn) | financial function library |
+| [flint](https://github.com/twosigma/flint) | A Time Series Library for Apache Spark |
 | [hctsa](https://github.com/benfulcher/hctsa) | Matlab based feature extraction which can be controlled from python |
 | [Nitime](https://github.com/nipy/nitime) |  Timeseries analysis for neuroscience data |
 | [Pastas](https://github.com/pastas/pastas) | Timeseries analysis for hydrological data |
