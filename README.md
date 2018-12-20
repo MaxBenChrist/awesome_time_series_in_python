@@ -17,6 +17,7 @@ The following list is by no means exhaustive, feel free to submit a pr if you mi
 | [ffn](https://github.com/pmorissette/ffn) | financial function library |
 | [flint](https://github.com/twosigma/flint) | A Time Series Library for Apache Spark |
 | [hctsa](https://github.com/benfulcher/hctsa) | Matlab based feature extraction which can be controlled from python |
+| [khiva](https://github.com/shapelets/khiva) | A Time Series library with accelerated analytics on GPUS, it provides feature extraction and motif discovery among other functionalities.|
 | [Nitime](https://github.com/nipy/nitime) |  Timeseries analysis for neuroscience data |
 | [Pastas](https://github.com/pastas/pastas) | Timeseries analysis for hydrological data |
 | [prophet](https://github.com/facebook/prophet) |  Time series forecasting for time series data that has multiple seasonality with linear or non-linear growth |
