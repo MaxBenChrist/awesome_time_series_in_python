@@ -24,6 +24,7 @@ The following list is by no means exhaustive, feel free to submit a pr if you mi
 | [pyDSE](https://github.com/blue-yonder/pydse) |  ARMA models for Dynamic System Estimation |
 | [PyFlux](https://github.com/RJT1990/pyflux) | Classical time series forecasting models |
 | [pyramid](https://github.com/tgsmith61591/pyramid) | port of R's auto.arima method to Python |
+| [seglearn](https://github.com/dmbee/seglearn) | Extends the scikit-learn pipeline concept to sequence data |
 | [statsmodels](https://github.com/statsmodels/statsmodels) | Contains a submodule for classical time series models and hypothesis tests |
 | [TensorFlow-Time-Series-Examples](https://github.com/hzy46/TensorFlow-Time-Series-Examples) | Time Series Prediction with tf.contrib.timeseries |
 | [Traces](https://github.com/datascopeanalytics/traces) | A library for unevenly-spaced time series analysis |
