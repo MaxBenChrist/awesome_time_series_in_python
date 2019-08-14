@@ -2,7 +2,7 @@
 
 The python ecosystem contains different packages that can be used to process time series.
 
-The following list is by no means exhaustive, feel free to submit a pr if you miss something.
+The following list is by no means exhaustive, feel free to edit the list (will propose a file change via PR) if you miss anything.
 
 # Machine learning, statistics, analytics
 
@@ -10,6 +10,11 @@ The following list is by no means exhaustive, feel free to submit a pr if you mi
 
 | Project Name | Description |
 | ------- | ------ |
+| [sktime](https://github.com/alan-turing-institute/sktime) | A scikit-learn compatible library for learning with time series/panel data including time series classification/regression and (supervised/panel) forecasting |
+| [pysf](https://github.com/alan-turing-institute/pysf) | A scikit-learn compatible machine learning library for supervised/panel forecasting |
+| [Featuretools](https://github.com/Featuretools/featuretools) | Time series feature extraction, with possible conditionality on other variables with a pandas compatible relational-database-like data container |
+| [glm-sklearn](https://github.com/jcrudy/glm-sklearn) | scikit-learn compatible wrapper around the GLM module in [statsmodels](https://github.com/statsmodels/statsmodels) |
+| [HMMLearn](https://github.com/hmmlearn/hmmlearn) | Hidden Markov Models with scikit-learn compatible API |
 | [Arrow](https://github.com/crsmithdev/arrow) | A sensible, human-friendly approach to creating, manipulating, formatting and converting dates, times, and timestamps |
 | [cesium](https://github.com/cesium-ml/cesium) | Time series platform with feature extraction aiming for non uniformly sampled signals |
 | [GENDIS](https://github.com/IBCNServices/GENDIS) | Shapelet discovery by genetic algorithms |  
@@ -46,10 +51,24 @@ The following list is by no means exhaustive, feel free to submit a pr if you mi
 | [shapelets-python](https://github.com/mohaseeb/shaplets-python) |  Shapelet Classifier based on a multi layer neural network |
 | [UCR_Time_Series_Classification_Deep_Learning_Baseline](https://github.com/cauchyturing/UCR_Time_Series_Classification_Deep_Learning_Baseline) |  Fully Convolutional Neural Networks for state-of-the-art time series classification |
 | [WTTE-RNN](https://github.com/ragulpr/wtte-rnn/) | Time to Event forecast by RNN based Weibull density estimation |
+| [ES-RNN forecasting algorithm](https://github.com/damitkwr/ESRNN-GPU) | Python implementation of the winning forecasting method of the M4 competition combining exponential smoothing with a recurrent neural network using PyTorch |
+| [Deep learning methods for time series classification](https://github.com/hfawaz/dl-4-tsc) | A collection of common deep learning architectures for time series classification |
+| [M4 competition](https://github.com/M4Competition) | Collection of statistical and machine learning forecasting methods |
+
+# Time series data container
+
+| Project name | Description |
+| ------- | ------ |
+| [Featuretools](https://github.com/Featuretools/featuretools) | Time series feature extraction, with possible conditionality on other variables with a pandas compatible relational-database-like data container |
+| [xarray](https://github.com/pydata/xarray) | Labelled, multi-dimensional data structures as long as they have a shared time index |
+| [xpandas](https://github.com/alan-turing-institute/xpandas) | Labelled 1D and 2D data container for storing type-heterogeneous tabular data of any type, including time series, and encapsulates feature extraction and transformation modelling in an sklearn-compatible transformer interface, work in progress. |
+| [pysf](https://github.com/alan-turing-institute/pysf) | A scikit-learn compatible library for supervised forecasting |
 
 # Data sets
 | Project Name | Description |
 | ------- | ------ |
+| [Timeseriesclassification.com](https://timeseriesclassification.com) | An extensive repository for time series classification datasets |
+| [M4 competition](https://github.com/M4Competition) | Forecasting competition on 100,000 time series |
 | [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets#time-series) | This huge list of public datasets also has a section on time series datasets|
 | [ecmwf_models](https://github.com/TUW-GEO/ecmwf_models) | Readers and converters for climate reanalysis data |
 | [pandas-datareader](https://github.com/pydata/pandas-datareader) | Pulls financial data from different sources (e.g. yahoo, google, Quandl) |
