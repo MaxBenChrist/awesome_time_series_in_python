@@ -84,7 +84,11 @@ The following list is by no means exhaustive, feel free to edit the list (will p
 | [thunder](https://github.com/thunder-project/thunder) | scalable analysis of image and time series data in python based on spark |
 | [whisper](https://github.com/graphite-project/whisper) | File-based time-series database format |
 
+# Free courses
 
+| Project Name | Description |
+| ------- | ------ |
+| [Time Series Sorecasting](https://www.udacity.com/course/time-series-forecasting--ud980) | Udacity free course to learn about how to build and apply time series analysis/forecasting in business contexts |
 
 ----
 
