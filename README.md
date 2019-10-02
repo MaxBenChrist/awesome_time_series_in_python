@@ -88,7 +88,7 @@ The following list is by no means exhaustive, feel free to edit the list (will p
 
 | Project Name | Description |
 | ------- | ------ |
-| [Time Series Sorecasting](https://www.udacity.com/course/time-series-forecasting--ud980) | Udacity free course to learn about how to build and apply time series analysis/forecasting in business contexts |
+| [Time Series Forecasting](https://www.udacity.com/course/time-series-forecasting--ud980) | Udacity free course to learn about how to build and apply time series analysis/forecasting in business contexts |
 
 ----
 
