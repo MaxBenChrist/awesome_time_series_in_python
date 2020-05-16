@@ -113,8 +113,8 @@ will be saved as
 time  id  value kind
 0     1    11    a
 1     1     2    a
-0     1    13    a
-3     1     4    a
+0     1    13    b
+3     1     4    b
 ```
 
 ### 1.ii Flat Matrix
