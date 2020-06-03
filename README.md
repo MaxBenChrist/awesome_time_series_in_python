@@ -26,6 +26,7 @@ The following list is by no means exhaustive, feel free to edit the list (will p
 | [Pastas](https://github.com/pastas/pastas) | Timeseries analysis for hydrological data |
 | [prophet](https://github.com/facebook/prophet) |  Time series forecasting for time series data that has multiple seasonality with linear or non-linear growth |
 | [pyDSE](https://github.com/blue-yonder/pydse) |  ARMA models for Dynamic System Estimation |
+| [pyFTS](https://pyfts.github.io/pyFTS) | Fuzzy set rule-based models for time series forecasting, including multi-step, point, interval and probabilistic forecasting |
 | [PyFlux](https://github.com/RJT1990/pyflux) | Classical time series forecasting models |
 | [pysf](https://github.com/alan-turing-institute/pysf) | A scikit-learn compatible machine learning library for supervised/panel forecasting |
 | [pyramid](https://github.com/tgsmith61591/pyramid) | port of R's auto.arima method to Python |
