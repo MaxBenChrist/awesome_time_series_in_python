@@ -30,6 +30,7 @@ The following list is by no means exhaustive, feel free to edit the list (will p
 | [PyFlux](https://github.com/RJT1990/pyflux) | Classical time series forecasting models |
 | [pysf](https://github.com/alan-turing-institute/pysf) | A scikit-learn compatible machine learning library for supervised/panel forecasting |
 | [pyramid](https://github.com/tgsmith61591/pyramid) | port of R's auto.arima method to Python |
+| [pytorch-forecasting](https://github.com/jdb78/pytorch-forecasting) | A time series forecasting library using PyTorch with various state-of-the-art network architectures. |
 | [pyts](https://github.com/johannfaouzi/pyts) | Contains time series preprocessing, transformation as well as classification techniques |
 | [seglearn](https://github.com/dmbee/seglearn) | Extends the scikit-learn pipeline concept to sequence data |
 | [sktime](https://github.com/alan-turing-institute/sktime) | A scikit-learn compatible library for learning with time series/panel data including time series classification/regression and (supervised/panel) forecasting |
