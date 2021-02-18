@@ -40,7 +40,7 @@ The following list is by no means exhaustive, feel free to edit the list (will p
 | [Traces](https://github.com/datascopeanalytics/traces) | A library for unevenly-spaced time series analysis |
 | [ta-lib](https://github.com/mrjbq7/ta-lib) | Calculate technical indicators for financial time series (python wrapper around TA-Lib) |
 | [ta](https://github.com/bukosabino/ta) | Calculate technical indicators for financial time series |
-| [TIMEX](https://github.com/AlexMV12/TIMEX) | Library for creating time-series-forecasting-as-a-service platform/websites, with a fully automated data ingestion, pre-processing, and prediction pipeline (with univariate and multivariate models). Optional results visualization built on Dash.
+| [TIMEX](https://github.com/AlexMV12/TIMEX) | Library for creating time-series-forecasting-as-a-service platform/websites, with a fully automated data ingestion, pre-processing, prediction and results visualization pipeline.
 | [tsfresh](https://github.com/blue-yonder/tsfresh) | Extracts and filters features from time series, allowing supervised classificators and regressor to be applied to time series data |
 | [tslearn](https://github.com/rtavenar/tslearn) | Direct time series classifiers and regressors |
 | [tspreprocess](https://github.com/MaxBenChrist/tspreprocess) | Preprocess time series (resampling, denoising etc.), still WIP |
