@@ -47,6 +47,8 @@ The following list is by no means exhaustive, feel free to edit the list (will p
 | [tsfresh](https://github.com/blue-yonder/tsfresh) | Extracts and filters features from time series, allowing supervised classificators and regressor to be applied to time series data |
 | [tslearn](https://github.com/rtavenar/tslearn) | Direct time series classifiers and regressors |
 | [tspreprocess](https://github.com/MaxBenChrist/tspreprocess) | Preprocess time series (resampling, denoising etc.), still WIP |
+| [tsmoothie](https://github.com/cerlymarco/tsmoothie) | A python library for time-series smoothing and outlier detection in a vectorized way|
+
 
 ## Examples or singular models
 
@@ -71,6 +73,7 @@ The following list is by no means exhaustive, feel free to edit the list (will p
 | [xarray](https://github.com/pydata/xarray) | Labelled, multi-dimensional data structures as long as they have a shared time index |
 | [xpandas](https://github.com/alan-turing-institute/xpandas) | Labelled 1D and 2D data container for storing type-heterogeneous tabular data of any type, including time series, and encapsulates feature extraction and transformation modelling in an sklearn-compatible transformer interface, work in progress. |
 
+
 # Data sets
 | Project Name | Description |
 | ------- | ------ |
@@ -90,8 +93,8 @@ The following list is by no means exhaustive, feel free to edit the list (will p
 | [thunder](https://github.com/thunder-project/thunder) | scalable analysis of image and time series data in python based on spark |
 | [whisper](https://github.com/graphite-project/whisper) | File-based time-series database format |
 
-# Free courses
 
+# Free courses
 | Project Name | Description |
 | ------- | ------ |
 | [Time Series Forecasting](https://www.udacity.com/course/time-series-forecasting--ud980) | Udacity free course to learn about how to build and apply time series analysis/forecasting in business contexts |
