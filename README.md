@@ -11,6 +11,7 @@ The following list is by no means exhaustive, feel free to edit the list (will p
 | Project Name | Description |
 | ------- | ------ |
 | [Arrow](https://github.com/crsmithdev/arrow) | A sensible, human-friendly approach to creating, manipulating, formatting and converting dates, times, and timestamps |
+| [bta-lib](https://github.com/mementum/bta-lib) | Technical Analysis library in pandas for backtesting algotrading and quantitative analysis |
 | [cesium](https://github.com/cesium-ml/cesium) | Time series platform with feature extraction aiming for non uniformly sampled signals |
 | [Darts](https://github.com/unit8co/darts) | A library making it very easy to produce forecasts using a wide range of models, from ARIMA to deep learning. Also does ensembling, model selection and more. | 
 | [GENDIS](https://github.com/IBCNServices/GENDIS) | Shapelet discovery by genetic algorithms | 
