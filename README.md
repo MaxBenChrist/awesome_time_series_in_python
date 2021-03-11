@@ -41,6 +41,7 @@ The following list is by no means exhaustive, feel free to edit the list (will p
 | [stumpy](https://github.com/TDAmeritrade/stumpy) | Calculates matrix profile for time series subsequence all-pairs-similarity-search |
 | [TensorFlow-Time-Series-Examples](https://github.com/hzy46/TensorFlow-Time-Series-Examples) | Time Series Prediction with tf.contrib.timeseries |
 | [tensorflow_probability.sts](https://github.com/tensorflow/probability/tree/master/tensorflow_probability/python/sts) | Bayesian Structural Time Series model in Tensorflow Probability |
+| [timemachines](https://github.com/microprediction/timemachines) | Functional interface to prophet and other packages, with Elo ratings |
 | [Traces](https://github.com/datascopeanalytics/traces) | A library for unevenly-spaced time series analysis |
 | [ta-lib](https://github.com/mrjbq7/ta-lib) | Calculate technical indicators for financial time series (python wrapper around TA-Lib) |
 | [ta](https://github.com/bukosabino/ta) | Calculate technical indicators for financial time series |
