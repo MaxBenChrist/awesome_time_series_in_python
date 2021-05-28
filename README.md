@@ -11,7 +11,9 @@ The following list is by no means exhaustive, feel free to edit the list (will p
 | Project Name | Description |
 | ------- | ------ |
 | [Arrow](https://github.com/crsmithdev/arrow) | A sensible, human-friendly approach to creating, manipulating, formatting and converting dates, times, and timestamps |
+| [bta-lib](https://github.com/mementum/bta-lib) | Technical Analysis library in pandas for backtesting algotrading and quantitative analysis |
 | [cesium](https://github.com/cesium-ml/cesium) | Time series platform with feature extraction aiming for non uniformly sampled signals |
+| [Darts](https://github.com/unit8co/darts) | A library making it very easy to produce forecasts using a wide range of models, from ARIMA to deep learning. Also does ensembling, model selection and more. | 
 | [GENDIS](https://github.com/IBCNServices/GENDIS) | Shapelet discovery by genetic algorithms | 
 | [glm-sklearn](https://github.com/jcrudy/glm-sklearn) | scikit-learn compatible wrapper around the GLM module in [statsmodels](https://github.com/statsmodels/statsmodels) |
 | [Featuretools](https://github.com/Featuretools/featuretools) | Time series feature extraction, with possible conditionality on other variables with a pandas compatible relational-database-like data container |
@@ -30,19 +32,25 @@ The following list is by no means exhaustive, feel free to edit the list (will p
 | [PyFlux](https://github.com/RJT1990/pyflux) | Classical time series forecasting models |
 | [pysf](https://github.com/alan-turing-institute/pysf) | A scikit-learn compatible machine learning library for supervised/panel forecasting |
 | [pyramid](https://github.com/tgsmith61591/pyramid) | port of R's auto.arima method to Python |
+| [pytorch-forecasting](https://github.com/jdb78/pytorch-forecasting) | A time series forecasting library using PyTorch with various state-of-the-art network architectures. |
 | [pyts](https://github.com/johannfaouzi/pyts) | Contains time series preprocessing, transformation as well as classification techniques |
+| [ruptures](https://github.com/deepcharles/ruptures) | Provides methods to find change points in time series such as shifts in the mean or scale of the signal as well as more complex changes in the probability distribution or frequency. |
 | [seglearn](https://github.com/dmbee/seglearn) | Extends the scikit-learn pipeline concept to sequence data |
 | [sktime](https://github.com/alan-turing-institute/sktime) | A scikit-learn compatible library for learning with time series/panel data including time series classification/regression and (supervised/panel) forecasting |
 | [statsmodels](https://github.com/statsmodels/statsmodels) | Contains a submodule for classical time series models and hypothesis tests |
 | [stumpy](https://github.com/TDAmeritrade/stumpy) | Calculates matrix profile for time series subsequence all-pairs-similarity-search |
 | [TensorFlow-Time-Series-Examples](https://github.com/hzy46/TensorFlow-Time-Series-Examples) | Time Series Prediction with tf.contrib.timeseries |
 | [tensorflow_probability.sts](https://github.com/tensorflow/probability/tree/master/tensorflow_probability/python/sts) | Bayesian Structural Time Series model in Tensorflow Probability |
+| [timemachines](https://github.com/microprediction/timemachines) | Functional interface to prophet and other packages, with Elo ratings |
 | [Traces](https://github.com/datascopeanalytics/traces) | A library for unevenly-spaced time series analysis |
 | [ta-lib](https://github.com/mrjbq7/ta-lib) | Calculate technical indicators for financial time series (python wrapper around TA-Lib) |
 | [ta](https://github.com/bukosabino/ta) | Calculate technical indicators for financial time series |
+| [TIMEX](https://github.com/AlexMV12/TIMEX) | Library for creating time-series-forecasting-as-a-service platforms/websites, with a fully automated data ingestion, pre-processing, prediction and results visualization pipeline.
 | [tsfresh](https://github.com/blue-yonder/tsfresh) | Extracts and filters features from time series, allowing supervised classificators and regressor to be applied to time series data |
 | [tslearn](https://github.com/rtavenar/tslearn) | Direct time series classifiers and regressors |
 | [tspreprocess](https://github.com/MaxBenChrist/tspreprocess) | Preprocess time series (resampling, denoising etc.), still WIP |
+| [tsmoothie](https://github.com/cerlymarco/tsmoothie) | A python library for time-series smoothing and outlier detection in a vectorized way|
+
 
 ## Examples or singular models
 
@@ -67,6 +75,7 @@ The following list is by no means exhaustive, feel free to edit the list (will p
 | [xarray](https://github.com/pydata/xarray) | Labelled, multi-dimensional data structures as long as they have a shared time index |
 | [xpandas](https://github.com/alan-turing-institute/xpandas) | Labelled 1D and 2D data container for storing type-heterogeneous tabular data of any type, including time series, and encapsulates feature extraction and transformation modelling in an sklearn-compatible transformer interface, work in progress. |
 
+
 # Data sets
 | Project Name | Description |
 | ------- | ------ |
@@ -86,8 +95,8 @@ The following list is by no means exhaustive, feel free to edit the list (will p
 | [thunder](https://github.com/thunder-project/thunder) | scalable analysis of image and time series data in python based on spark |
 | [whisper](https://github.com/graphite-project/whisper) | File-based time-series database format |
 
-# Free courses
 
+# Free courses
 | Project Name | Description |
 | ------- | ------ |
 | [Time Series Forecasting](https://www.udacity.com/course/time-series-forecasting--ud980) | Udacity free course to learn about how to build and apply time series analysis/forecasting in business contexts |
