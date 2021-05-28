@@ -20,6 +20,7 @@ The following list is by no means exhaustive, feel free to edit the list (will p
 | [fecon235](https://github.com/rsvp/fecon235) |  Computational tools for financial economics |
 | [ffn](https://github.com/pmorissette/ffn) | financial function library |
 | [flint](https://github.com/twosigma/flint) | A Time Series Library for Apache Spark |
+| [Flow Forecast](https://github.com/AIStream-Peelout/flow-forecast) |  Flow Forecast is a deep learning for time series forecasting, classification, and anomaly detection framework built in PyTorch |
 | [hctsa](https://github.com/benfulcher/hctsa) | Matlab based feature extraction which can be controlled from python |
 | [HMMLearn](https://github.com/hmmlearn/hmmlearn) | Hidden Markov Models with scikit-learn compatible API |
 | [khiva-python](https://github.com/shapelets/khiva-python) | A Time Series library with accelerated analytics on GPUS, it provides feature extraction and motif discovery among other functionalities.|
