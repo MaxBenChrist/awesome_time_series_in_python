@@ -14,6 +14,7 @@ The following list is by no means exhaustive, feel free to edit the list (will p
 | [bta-lib](https://github.com/mementum/bta-lib) | Technical Analysis library in pandas for backtesting algotrading and quantitative analysis |
 | [cesium](https://github.com/cesium-ml/cesium) | Time series platform with feature extraction aiming for non uniformly sampled signals |
 | [Darts](https://github.com/unit8co/darts) | A library making it very easy to produce forecasts using a wide range of models, from ARIMA to deep learning. Also does ensembling, model selection and more. | 
+| [ETNA](https://github.com/tinkoff-ai/etna-ts) | A python library for time series forecasting and analysis with temporal data structure always in mind. Includes a variety of predictive models with unified interface along with EDA and validation methods|
 | [GENDIS](https://github.com/IBCNServices/GENDIS) | Shapelet discovery by genetic algorithms | 
 | [glm-sklearn](https://github.com/jcrudy/glm-sklearn) | scikit-learn compatible wrapper around the GLM module in [statsmodels](https://github.com/statsmodels/statsmodels) |
 | [Featuretools](https://github.com/Featuretools/featuretools) | Time series feature extraction, with possible conditionality on other variables with a pandas compatible relational-database-like data container |
