@@ -27,6 +27,7 @@ The following list is by no means exhaustive, feel free to edit the list (will p
 | [khiva-python](https://github.com/shapelets/khiva-python) | A Time Series library with accelerated analytics on GPUS, it provides feature extraction and motif discovery among other functionalities.|
 | [matrixprofile-ts](https://github.com/target/matrixprofile-ts) | Python implementation of the Matrix Profile algorithm which offers anomaly detection and pattern (or “motif”) discovery at the same time. |
 | [Nitime](https://github.com/nipy/nitime) |  Timeseries analysis for neuroscience data |
+| [Orbit](https://github.com/uber/orbit) |  Orbit is a Python package for Bayesian time series forecasting and inference |
 | [Pandas TA](https://github.com/twopirllc/pandas-ta) | An easy to use Python 3 Pandas Extension with 130+ Technical Analysis Indicators |
 | [Pastas](https://github.com/pastas/pastas) | Timeseries analysis for hydrological data |
 | [prophet](https://github.com/facebook/prophet) |  Time series forecasting for time series data that has multiple seasonality with linear or non-linear growth |
