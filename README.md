@@ -51,6 +51,7 @@ The following list is by no means exhaustive, feel free to edit the list (will p
 | [tsai](https://github.com/timeseriesAI/tsai) | State-of-the-art Deep Learning with Time Series and Sequences in Pytorch / fastai |
 | [ta](https://github.com/bukosabino/ta) | Calculate technical indicators for financial time series |
 | [TIMEX](https://github.com/AlexMV12/TIMEX) | Library for creating time-series-forecasting-as-a-service platforms/websites, with a fully automated data ingestion, pre-processing, prediction and results visualization pipeline.
+| [tsflex](https://github.com/predict-idlab/tsflex) | A toolkit for flexible time series processing and feature extraction. |
 | [tsfresh](https://github.com/blue-yonder/tsfresh) | Extracts and filters features from time series, allowing supervised classificators and regressor to be applied to time series data |
 | [tslearn](https://github.com/rtavenar/tslearn) | Direct time series classifiers and regressors |
 | [tspreprocess](https://github.com/MaxBenChrist/tspreprocess) | Preprocess time series (resampling, denoising etc.), still WIP |
