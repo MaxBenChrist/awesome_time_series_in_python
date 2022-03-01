@@ -30,6 +30,7 @@ The following list is by no means exhaustive, feel free to edit the list (will p
 | [Orbit](https://github.com/uber/orbit) |  Orbit is a Python package for Bayesian time series forecasting and inference |
 | [Pandas TA](https://github.com/twopirllc/pandas-ta) | An easy to use Python 3 Pandas Extension with 130+ Technical Analysis Indicators |
 | [Pastas](https://github.com/pastas/pastas) | Timeseries analysis for hydrological data |
+| [plotly-resampler](https://github.com/predict-idlab/plotly-resampler) | Enable visual analytics on large time series via this plotly add-on. |
 | [prophet](https://github.com/facebook/prophet) |  Time series forecasting for time series data that has multiple seasonality with linear or non-linear growth |
 | [pyDSE](https://github.com/blue-yonder/pydse) |  ARMA models for Dynamic System Estimation |
 | [pyFTS](https://pyfts.github.io/pyFTS) | Fuzzy set rule-based models for time series forecasting, including multi-step, point, interval and probabilistic forecasting |
