@@ -55,7 +55,7 @@ The following list is by no means exhaustive, feel free to edit the list (will p
 | [tsfresh](https://github.com/blue-yonder/tsfresh) | Extracts and filters features from time series, allowing supervised classificators and regressor to be applied to time series data |
 | [tslearn](https://github.com/rtavenar/tslearn) | Direct time series classifiers and regressors |
 | [tspreprocess](https://github.com/MaxBenChrist/tspreprocess) | Preprocess time series (resampling, denoising etc.), still WIP |
-| [tsmoothie](https://github.com/cerlymarco/tsmoothie) | A python library for time-series smoothing and outlier detection in a vectorized way|
+| [tsmoothie](https://github.com/cerlymarco/tsmoothie) | A [python library](https://www.scaler.com/topics/python-libraries/) for time-series smoothing and outlier detection in a vectorized way|
 
 
 ## Examples or singular models
